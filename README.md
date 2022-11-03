@@ -1,3 +1,3 @@
 # cipher_text
 
-##A python package for encryption and decryption of text
+## A python package for encryption and decryption of text
